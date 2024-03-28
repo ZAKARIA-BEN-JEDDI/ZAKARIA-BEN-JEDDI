@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm ZAKARIA BEN JEDDI</h1>
 <h3 align="center">A passionate frontend developer from morocco</h3>
 
@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/zakariabenjedd1" target="blank"><img src="https://img.shields.io/twitter/follow/zakariabenjedd1?logo=twitter&style=for-the-badge" alt="zakariabenjedd1" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" height="300" width="500" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left">
 <a href="https://twitter.com/zakariabenjedd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zakariabenjedd1" height="30" width="40" /></a>
