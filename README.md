@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm ZAKARIA BEN JEDDI</h1>
-<h3 align="center">A passionate frontend developer from morocco</h3>
+<h3 align="center">A passionate full stack developer from morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakaria-ben-jeddi&label=Profile%20views&color=0e75b6&style=flat" alt="zakaria-ben-jeddi" /> </p>
 
